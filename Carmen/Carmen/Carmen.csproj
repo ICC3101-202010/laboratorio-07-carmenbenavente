@@ -51,6 +51,8 @@
     <Compile Include="calc.Designer.cs">
       <DependentUpon>calc.cs</DependentUpon>
     </Compile>
+    <Compile Include="Operation.cs" />
+    <Compile Include="OperationType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
